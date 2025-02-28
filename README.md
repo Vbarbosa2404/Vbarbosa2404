@@ -4,18 +4,16 @@
 
 <img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" align = "right">
 
-
-
 <div> 
-  <a href="https://www.instagram.com/_sbrinz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sabrina.lima98760@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-lima-495678252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/vbarbosa4/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorgabriel240403@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://linkedin.com/in/victor-gabriel-7827a02bb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <div>
   <div align = "left">
-  <img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brina-dev&show_icons=true&theme=radical&count_private=true"/>
-  <img height = "140em" src="https://github-readme-stats.vercel.app/api?username=brina-dev&show_icons=true&show_icons=true&theme=radical&count_private=true" />  
+  <img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbarbosa2404&show_icons=true&theme=radical&count_private=true"/>
+  <img height = "140em" src="https://github-readme-stats.vercel.app/api?username=vbarbosa2404&show_icons=true&show_icons=true&theme=radical&count_private=true"/>  
 </div>
 
 <div> 
